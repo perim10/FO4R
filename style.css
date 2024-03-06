@@ -1,9 +1,9 @@
 :root{
-    --baclk:#000000;
+    --roxo:#c503ab;
 }
 
 body {
-
+ background-color:var(--roxo)
 }
 
 
