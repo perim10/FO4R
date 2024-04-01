@@ -17,7 +17,7 @@ Header {
   align-items: center;
   justify-content: space-around;
 }
- <section{
+ section{
   display: flex;
   background-color: var(--preto);
   border-radius: 181px;
