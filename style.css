@@ -35,3 +35,7 @@ Header{
   background-color: var(--blue);
   text-align: center;
  }
+
+ .img-equipe{
+  width: 30%;
+ }
