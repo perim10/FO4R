@@ -28,3 +28,8 @@ Header {
   margin: 10px;
   padding: 10px;
  }
+
+ .equipe{
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+ }
