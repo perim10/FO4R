@@ -18,11 +18,13 @@ Header {
   justify-content: space-around;
 }
  <section{
-    display:flex;
-    background-color:var(--preto);
-    border-radius: 30px;
-    border-style: dashed;
-    border-width: 30px;
-    border-color: blue;
-    border: dotted 10px blue;
+  display: flex;
+  background-color: var(--preto);
+  border-radius: 181px;
+  border-style: dashed;
+  border-width: 32px;
+  border-color: blue;
+  border: dotted 10px blue;
+  margin: 30px;
+  padding: 200px;
  }
