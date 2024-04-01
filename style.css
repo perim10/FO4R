@@ -10,7 +10,7 @@ body {
 
 
 img {
-    width: 30%;
+    width: 10%;
 }
 Header {
   flex-direction row;
@@ -19,7 +19,7 @@ Header {
 }
  <section{
     display:flex;
-    background-color: var(--preto);
+    background-color:var(--preto);
     border-radius: 30px;
     /* border-style: dashed; */
     /* border-width: 300px; */
