@@ -22,7 +22,7 @@ Header {
     background-color:var(--preto);
     border-radius: 30px;
     border-style: dashed;
-    border-width: 300px;
+    border-width: 30px;
     border-color: blue;
     border: dotted 10px blue;
  }
