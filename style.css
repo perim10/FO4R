@@ -12,7 +12,7 @@ body {
 img {
     width: 30%;
 }
-Header {
+Header{
   flex-direction row;
   align-items: center;
   justify-content: space-around;
