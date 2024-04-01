@@ -12,11 +12,18 @@ body {
 image {
     width: 30%;
 }
-display:flex;
-  flex-direction row:
+Header {
+  flex-direction row;
   align-items: center;
   justify-content: space-around;
 }
  <section{
     display:flex;
-    background-color:
+    background-color: var(--preto);
+    border-radius: 809px;
+    /* border-style: dashed; */
+    /* border-width: 300px; */
+    /* border-color: blue; */
+    border: dotted 10px blue;
+    background-color; #3700ff; 
+ }
