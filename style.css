@@ -19,7 +19,7 @@ Header {
 }
  section{
   display: flex;
-  background-color: var(--preto);
+  background-color: var(--blue);
   border-radius: 181px;
   border-style: dashed;
   border-width: 32px;
