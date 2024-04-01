@@ -2,7 +2,7 @@
     --roxo:#49003f;
     --preto:#000000;
     --blue: #3700ff;
-  
+}
 
 body {
  background-color:var(--roxo)
