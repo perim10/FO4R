@@ -9,7 +9,7 @@ body {
 }
 
 
-image {
+img {
     width: 30%;
 }
 Header {
@@ -20,7 +20,7 @@ Header {
  <section{
     display:flex;
     background-color: var(--preto);
-    border-radius: 809px;
+    border-radius: 30px;
     /* border-style: dashed; */
     /* border-width: 300px; */
     /* border-color: blue; */
