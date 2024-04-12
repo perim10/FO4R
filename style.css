@@ -29,7 +29,7 @@ Header{
   padding: 10px;
  }
 
- .equipe{
+ #equipe{
   display: grid;
   grid-template-columns: 33% 33% 33%;
   background-color: var(--blue);
