@@ -26,6 +26,8 @@ Header{
   /* border-color: blue; */
   border: dotted 10px blue;
   margin: 10px;
+  justify-content: center;
+  align-items: center;
   padding: 10px;
  }
 
@@ -37,5 +39,5 @@ Header{
  }
 
  .img-equipe{
-  width: 100%;
+  width: 59%;
  }
