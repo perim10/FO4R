@@ -48,6 +48,20 @@ Header{
   color: aqua;
 }
 
+.modulo{
+  display: flex;
+  /* border-radius: 181px; */
+  /* border-style: dashed; */
+  /* border-width: 32px; */
+  /* border-color: blue; */
+  /* border: dotted 10px blue; */
+  /* margin: 10px; */
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  color: aqua;
+}
+
  #equipe{
   display: grid;
   grid-template-columns: 33% 33% 33%;
