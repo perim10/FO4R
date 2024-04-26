@@ -63,7 +63,12 @@ Header{
 }
 
 .container {
-  image-rendering: auto;
+  display: flex;
+  align-content: stretch;
+  align-items: baseline;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  flex-direction: row-reverse;
 }
 
  #equipe{
