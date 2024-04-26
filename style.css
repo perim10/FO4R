@@ -16,7 +16,8 @@ img {
 Header{
   flex-direction: row;
   align-items: center;
-  justify-content: space-around;
+  justify-content: center;
+  display: flex;
 }
  .intro{
   display: flex;
