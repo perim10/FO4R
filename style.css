@@ -64,6 +64,7 @@ Header{
 
 .container {
   position: relative;
+  image-orientation: flip;
 }
 
  #equipe{
