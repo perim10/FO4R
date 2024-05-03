@@ -69,6 +69,9 @@ Header{
   flex-wrap: wrap;
   justify-content: space-between;
   flex-direction: row-reverse;
+  position: relative;
+  height: 100vh;
+  width: 100vw;
 }
 .container{
   position: relative;
@@ -79,6 +82,7 @@ Header{
   position: absolute;
   height: 50%;
   width: 50%;
+  border:2px solid red ;
 }
 
 .top-left {
