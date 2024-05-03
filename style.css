@@ -80,9 +80,10 @@ Header{
 }
 .container img {
   position: absolute;
-  height: 50%;
-  width: 50%;
+  height: 45%;
+  width: 45%;
   border:2px solid red ;
+  margin: 10px;
 }
 
 .top-left {
